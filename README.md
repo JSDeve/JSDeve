@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JSDeve
-- 👀 I’m interested in creating new 
+- 👀 I’m interested in creating new opportunities for people
 - 🌱 I’m currently learning Golang
 - 👨‍💻 Ask me about JavaScript, TypeScript, Nodejs, Expressjs, MongoDB
 
